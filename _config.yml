@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Hyunyoung Harry Han
+title: HCI Researcher
+email: hyhan.dev@gamil.com
+website: https://h0han.github.io/resume/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -90,8 +90,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
+        title: DGIST (Daegu Gyeongbuk Institute of Science and Technology)
+        caption: Feb 2019 - Feb 2023
         sub_title: BSc Computer Science
         quote: >
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
