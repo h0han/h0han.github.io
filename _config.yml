@@ -334,7 +334,7 @@ content:
           Term Project of Digital Logic Design (Fall, 2021; DGIST)
 
         description: | # this will include new lines to allow paragraphs
-          Purpose : Design a simple calculator that performs addition, subtraction, and multiplication. Algorithm for each operation shall be implemented using SM chart, but shall be designed using minimal logic, and the design shall be designed in a top-down manner, but after verifying the design of each block, the entire block is integrated to complete the design. Use simulation through test bench to verify the circuit that you designed. This project is implemented in VHDL.
+          Purpose : Designing a simple calculator that performs addition, subtraction, and multiplication. Algorithm for each operation shall be implemented using SM chart, but shall be designed using minimal logic, and the design shall be designed in a top-down manner, but after verifying the design of each block, the entire block is integrated to complete the design. Use simulation through test bench to verify the circuit that you designed. This project is implemented in VHDL.
           <br> <br>
 
 # PUBLICATIONS
