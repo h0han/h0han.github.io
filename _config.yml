@@ -9,7 +9,7 @@ version: 2
 name: Hyunyoung Harry Han
 title: HCI Researcher
 email: hyhan.dev@gamil.com
-website: https://h0han.github.io/resume/
+# website: https://h0han.github.io/resume/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_2022.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I have a passion for improving <mark>HCI</mark> and <mark>UX</mark> in XR and metaverse environments. 
+  I have a passion for improving **<mark>HCI</mark>** and **<mark>UX</mark>** in XR and metaverse environments. 
   I believe a fundamental HCI approach, which prioritizes user convenience in the XR-Metaverse connection process, is crucial for effective metaverse operation. 
   I aspire to stay ahead of emerging technologies, apply them strategically, and drive growth through informed decision-making.
 
@@ -144,6 +144,7 @@ content:
           **AI-based home training posture guide solution for older adults to solve lack of exercise**
           - Conducting research and developing technology through a UGRP (Undergraduate Group Research Program) and proceeding to start a business.
           - Conducting a Product-market fit exploration in "AI-based home training posture guide solution" and focusing on the target demographic of older adults, and the problem of lack of exercise to develop the product.
+          <br> <br>
 
 # EDUCATION
   - title: Education # Title for the section
@@ -247,6 +248,7 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           **<mark>WEB3(Crypto, Metaverse)</mark>** , **<mark>Augmented Reality</mark>** , **<mark>Virtual Reality</mark>**
+          <br> <br>
 
 # PROJECTS
   - title: Projects # Title for the section
@@ -275,7 +277,7 @@ content:
             was promoted by using a chatbot so that it could be viewed momentarily in the messenger.
              This project is implemented in Python and Dune Analytics.
 
-          [KeyNote (Full-deck)](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)
+          - **[KeyNote (Full-deck)](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)**
 
       - layout: top-middle
         title: Undergraduate Group Research Program (UGRP)
@@ -297,12 +299,12 @@ content:
           **Project 1. A Person Re-Identification and Tracking Algorithm in Mobile Environment for
            Human-Robot Interaction** [ISET 2021 (Poster session)]
           - Research details: The aim is to implement a system for tracking individuals in environments such as homes and offices by performing object detection and re-identification on mobile devices. The process involves choosing a lightweight network suitable for mobile environments and optimizing each model for the task at hand, allowing for high performance identification and tracking of registered users in real-time video.
-          - [Poster](https://drive.google.com/file/d/1t9dMgNJQ4nH_gyXpRz0vDYpHCprF3Me6/view?usp=sharing)
+          - **[Poster](https://drive.google.com/file/d/1t9dMgNJQ4nH_gyXpRz0vDYpHCprF3Me6/view?usp=sharing)**
 
           **Project 2. Lightening of the high-performance Pose Estimation model in the video using Pointwise
            Similarity** [IMEMK Autumn Conference 2021 (Poster session)]
           - Research details: The goal is to apply pose estimation to videos. The aim is to design a network that incorporates high accuracy and frame rate by utilizing the correlation between video frames, and to try different encoding methods and frequencies in order to achieve optimal results.
-          - [Poster](https://drive.google.com/file/d/1hUGeQby543sDRel5defIRpZKUF4ecG_y/view?usp=sharing)
+          - **[Poster](https://drive.google.com/file/d/1hUGeQby543sDRel5defIRpZKUF4ecG_y/view?usp=sharing)**
 
       - layout: top-middle
         title: Will You Match Me? UGRP! (Matching program for UGRP Team Members)
@@ -314,7 +316,7 @@ content:
             url: https://github.com/h0han/SE271_project
 
         quote: >
-          Term Project of Object-Oriented Programming (Fall, 2021; DGIST) · Selected as the best project (selected 1st among 31 teams)
+          Term Project of Object-Oriented Programming (Fall, 2021; DGIST)
 
         description: | # this will include new lines to allow paragraphs
           The purpose of this project is that the weighting should be well set to rank students' data and quantity. We aim to help students form a well-matched team by considering not only the field of research or major, but also interpersonal factors. This project is implemented in C++.
@@ -329,10 +331,11 @@ content:
             url: https://github.com/h0han/SE273_project
 
         quote: >
-          Term Project of Digital Logic Design (Fall, 2021; DGIST) · Selected as the best project (selected 1st among 31 teams)
+          Term Project of Digital Logic Design (Fall, 2021; DGIST)
 
         description: | # this will include new lines to allow paragraphs
           Purpose : Design a simple calculator that performs addition, subtraction, and multiplication. Algorithm for each operation shall be implemented using SM chart, but shall be designed using minimal logic, and the design shall be designed in a top-down manner, but after verifying the design of each block, the entire block is integrated to complete the design. Use simulation through test bench to verify the circuit that you designed. This project is implemented in VHDL.
+          <br> <br>
 
 # PUBLICATIONS
   - title: Publications & Patents # Title for the section
@@ -340,21 +343,21 @@ content:
     content:
       - layout: top-middle
         title: Lightening of the high-performance Pose Estimation model in the video using Pointwise Similarity
-        subtitle : [IMEMK Autumn Conference 2021 Poster session]
+        # subtitle : [IMEMK Autumn Conference 2021 Poster session]
         quote: >
-          Journal of IMEMK · Nov 10, 2021
+          [IMEMK Autumn Conference 2021 Poster session] <br> Journal of IMEMK · Nov 10, 2021
 
       - layout: top-middle
         title: A Person Re-Identification and Tracking Algorithm in Mobile Environment for Human-Robot Interaction
-        subtitle : [The 16th IEMEK Symposium on Embedded Technology Poster Session]
+        # subtitle : [The 16th IEMEK Symposium on Embedded Technology Poster Session]
         quote: >
-          Journal of IMEMK · May 26, 2021
+          [The 16th IEMEK Symposium on Embedded Technology Poster Session] <br> Journal of IMEMK · May 26, 2021
 
       - layout: top-middle
         title: 경량화된 자세 추정 모델 제공 장치 및 방법
         # subtitle : [IMEMK Autumn Conference 2021 Poster session]
         quote: >
-          Patent application · Nov 24, 2021
+          Patent application · Nov 24, 2021 <br> <br>
 
 # AWARDS
   - title: Awards & Honors # Title for the section
