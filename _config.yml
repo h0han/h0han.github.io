@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Hyunyoung Harry Han
 title: HCI Researcher
-email: hyhan.dev@gamil.com
+email: hyhan.dev@gmail.com
 # website: https://h0han.github.io/resume/
 
 # Dark Mode (true/false/never)
@@ -89,7 +89,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           Learning and implementing theories related to File System, and learning the method of version management using Git/Github.
           - [Repository](https://github.com/h0han/OTFS)
-          - PI : Prof. Sung-jin Lees
+          - PI : Prof. Sung-jin Lee
 
       - layout: left
         title: Theoretical and Computational Biophysics Laboratory
