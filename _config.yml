@@ -193,6 +193,27 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: XR, Haptics
+        # link: 
+        # link_text: Project Website
+        additional_links:
+          # - title:  Project Repository
+          #   icon: fab fa-github
+          #   url: github.com/h0han/bc_2022
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
+
+        description: | # this will include new lines to allow paragraphs
+          **<mark>AR/VR</mark>** , **<mark>Haptic Rendering</mark>** , **<mark>Haptic Feedback</mark>**
+          
+          ![HaptX](images/haptX_ferret.png "HaptX")
+          ![XR](images/images/vr_ferret_2.png "XR")
+
+
+      - layout: top-middle
         title: Computer Graphics
         # subtitle : [full deck](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)
         # link: 
@@ -231,24 +252,6 @@ content:
           
           ![OMG](images/gif/OMG_output_clip_rsz.gif "OMG")
           ![JPARK](images/jpark_output_cvrt.gif "JPARK")
-
-      - layout: top-middle
-        title: ETC
-        # link: 
-        # link_text: Project Website
-        additional_links:
-          # - title:  Project Repository
-          #   icon: fab fa-github
-          #   url: github.com/h0han/bc_2022
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
-
-        description: | # this will include new lines to allow paragraphs
-          **<mark>WEB3(Crypto, Metaverse)</mark>** , **<mark>Augmented Reality</mark>** , **<mark>Virtual Reality</mark>**
-          <br> <br>
 
 # PROJECTS
   - title: Projects # Title for the section
