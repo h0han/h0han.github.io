@@ -208,9 +208,11 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           **<mark>AR/VR</mark>** , **<mark>Haptic Rendering</mark>** , **<mark>Haptic Feedback</mark>**
-          
-          ![HaptX](images/haptX_ferret.png "HaptX")
-          ![XR](images/vr_ferret_2.png "XR")
+          <img src="images/vr_ferret_2.png" alt="vr w/ ferret" width="34%"/>
+          <img src="images/haptX_ferret.png" alt="haptX w/ ferret" width="34%"/>
+# ![HaptX](images/haptX_ferret.png "HaptX")
+# ![XR](images/vr_ferret_2.png "XR")
+
 
 
       - layout: top-middle
