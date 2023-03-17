@@ -214,6 +214,25 @@ content:
 # ![HaptX](images/haptX_ferret.png "HaptX")
 # ![XR](images/vr_ferret_2.png "XR")
 
+      - layout: top-middle
+        title: Computer Vision
+        # link: 
+        # link_text: Project Website
+        additional_links:
+          # - title:  Project Repository
+          #   icon: fab fa-github
+          #   url: github.com/h0han/bc_2022
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
+
+        description: | # this will include new lines to allow paragraphs
+          **Related to Human** : **<mark>2D/3D Pose Estimation</mark>** , **<mark>Segmentation</mark>** , **<mark>Detection</mark>**
+          
+          ![OMG](images/gif/OMG_output_clip_rsz.gif "OMG")
+          ![JPARK](images/jpark_output_cvrt.gif "JPARK")
 
 
       - layout: top-middle
@@ -236,25 +255,6 @@ content:
           ![Diffusion1](images/iloveimg-resized/diffusion1.png "Diffusion1")
           ![Diffusion2](images/iloveimg-resized/diffusion2.png "Diffusion2")
 
-      - layout: top-middle
-        title: Computer Vision
-        # link: 
-        # link_text: Project Website
-        additional_links:
-          # - title:  Project Repository
-          #   icon: fab fa-github
-          #   url: github.com/h0han/bc_2022
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
-
-        description: | # this will include new lines to allow paragraphs
-          **Related to Human** : **<mark>2D/3D Pose Estimation</mark>** , **<mark>Segmentation</mark>** , **<mark>Detection</mark>**
-          
-          ![OMG](images/gif/OMG_output_clip_rsz.gif "OMG")
-          ![JPARK](images/jpark_output_cvrt.gif "JPARK")
 
 # PROJECTS
   - title: Projects # Title for the section
@@ -389,7 +389,7 @@ content:
       **🏆  Advancement into the finalist** - Issued by 2019 DGB Social Contribution Project Idea Contest · Aug 2019
       
       **🏆  National Scholarship at DGIST** - Awarded by Ministry of Science and ICT, Republic of Korea · Feb 2019
-      
+
       [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fh0han.github.io&count_bg=%238FA3D5&title_bg=%23555555&icon=meteor.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
