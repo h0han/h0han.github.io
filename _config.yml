@@ -93,7 +93,7 @@ content:
 
       - layout: left
         title: Theoretical and Computational Biophysics Laboratory
-        caption: Research Intern <br> Jan 2020 - Feb 2021
+        caption: Research Intern <br> Jan 2020 - Feb 2020
         sub_title: Dept. of Brain Science, DGIST
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
@@ -208,7 +208,7 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           **<mark>AR/VR</mark>** , **<mark>Haptic Rendering</mark>** , **<mark>Haptic Feedback</mark>**
-          
+
           <img src="images/vr_ferret_2.png" alt="vr w/ ferret" width="30%"/>
           <img src="images/haptX_ferret.png" alt="haptX w/ ferret" width="30%"/>
 # ![HaptX](images/haptX_ferret.png "HaptX")
