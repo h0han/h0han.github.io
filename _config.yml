@@ -65,7 +65,7 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          - Embedding Interactive Technologies
+          - Haptic Feedback / Motion Guidance based on Haptics
           - Advancing Interaction Techniques
           - Authroring User Interface & Experience
           - PI : Prof. Sang-Ho Yoon
@@ -77,7 +77,9 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          - Learning about the research trends in Human Re-identification and Pose Estimation also, conducting individual research.
+          - Human Re-identification
+          - Pose Estimation
+          - Human-Robot Interaction
           - PI : Prof. Woo-young Jung
 
       - layout: left
@@ -87,7 +89,8 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          - Learning and implementing theories related to File System, and learning the method of version management using Git/Github.
+          - File System (Operation System)
+          - Code Version Management(Git/Github)
           - [Repository](https://github.com/h0han/OTFS)
           - PI : Prof. Sung-jin Lee
 
@@ -98,7 +101,8 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          - Learning about the fundamentals of biophysics, especially using Python and Linux OS.
+          - Basics of Python
+          - Basics of Linux
           - PI : Prof. Ik-soo Chang
 
 # WORK EXPERIENCES
