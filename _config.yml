@@ -352,13 +352,13 @@ content:
     content:
       - layout: top-middle
         title: Lightening of the high-performance Pose Estimation model in the video using Pointwise Similarity
-        # subtitle : [IMEMK Autumn Conference 2021 Poster session]
+        subtitle : Jaehyun Pahk, Hyunwoo Kwak, Hyunyoung Han, Junkwang Kim, Wooyoung Jung
         quote: >
           [IMEMK Autumn Conference 2021 Poster session] <br> Journal of IMEMK · Nov 10, 2021
 
       - layout: top-middle
         title: A Person Re-Identification and Tracking Algorithm in Mobile Environment for Human-Robot Interaction
-        # subtitle : [The 16th IEMEK Symposium on Embedded Technology Poster Session]
+        subtitle : Hyunyoung Han, Hyunwoo Kwak, Doowon Choe, Junkwang Kim, Wooyoung Jung
         quote: >
           [The 16th IEMEK Symposium on Embedded Technology Poster Session] <br> Journal of IMEMK · May 26, 2021
 
