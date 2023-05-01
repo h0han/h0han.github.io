@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Hyunyoung Harry Han
+name: Harry Hyunyoung Han
 title: HCI Researcher 
 email: hyhan.dev@gmail.com
 # website: https://h0han.github.io/resume/
@@ -62,13 +62,13 @@ content:
         title: HCI Tech Lab
         caption: Researcher <br> Mar 2023 - Present
         sub_title: GSCT, KAIST
-        # quote: >
+        # quote: >~
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
           - Motion Guidance based on Haptics
           - Haptic Rendering & Feedback
           - PI : Prof. Sang-Ho Yoon
-
+`
       - layout: left
         title: Research Division of Future Automotive Technology
         caption: Undergraduate Researcher <br> Oct 2020 - Dec 2021
@@ -76,7 +76,7 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          - Human Re-identification
+          - Human Re-identification``
           - Pose Estimation
           - Human-Robot Interaction
           - PI : Prof. Woo-young Jung
