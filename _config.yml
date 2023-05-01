@@ -65,9 +65,8 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          - Haptic Feedback / Motion Guidance based on Haptics
-          - Advancing Interaction Techniques
-          - Authroring User Interface & Experience
+          - Motion Guidance based on Haptics
+          - Haptic Rendering & Feedback
           - PI : Prof. Sang-Ho Yoon
 
       - layout: left
