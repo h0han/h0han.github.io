@@ -352,7 +352,7 @@ content:
     content:
       - layout: top-middle
         title: Lightening of the high-performance Pose Estimation model in the video using Pointwise Similarity
-        subtitle : Jaehyun Pahk, Hyunwoo Kwak, <U>Hyunyoung Han</U>, Junkwang Kim, Wooyoung Jung
+        subtitle : Jaehyun Pahk, Hyunwoo Kwak, Hyunyoung Han*, Junkwang Kim, Wooyoung Jung
         quote: >
           [IMEMK Autumn Conference 2021 Poster session] <br> Journal of IMEMK · Nov 10, 2021
 
