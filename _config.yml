@@ -138,11 +138,11 @@ content:
           - PI : Prof. Woo-young Jung
 
       - layout: left
-        title: Data-Intensive Computing Systems Laboratory (DataLab)
+        title: DataLab
         caption: Research Intern <br> Jun 2020 - Oct 2020
         sub_title: Dept. of Electrical Engineering & Computer Science, DGIST
-        # quote: >
-          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+        quote: >
+          [Data-Intensive Computing Systems Laboratory](https://datalab.dgist.ac.kr/)
         description: | # this will include new lines to allow paragraphs
           - File System (Operation System)
           - Code Version Management(Git/Github)
