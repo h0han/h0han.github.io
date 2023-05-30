@@ -118,9 +118,10 @@ content:
         title: HCI Tech Lab
         caption: Research Intern <br> Mar 2023 - Jun 2023
         sub_title: Graduate School of Culture Technology, KAIST
-        quote: >
-          [Human-Centered Interactive Technologies Laboratory](https://hcitech.org/)
+        # quote: >
+          # asd
         description: | # this will include new lines to allow paragraphs
+        [Human-Centered Interactive Technologies Laboratory](https://hcitech.org/)
           - Motion Guidance based on Haptics
           - Haptic Rendering & Feedback
           - PI : Prof. Sang-Ho Yoon
@@ -141,9 +142,10 @@ content:
         title: DataLab
         caption: Research Intern <br> Jun 2020 - Oct 2020
         sub_title: Dept. of Electrical Engineering & Computer Science, DGIST
-        quote: >
-          [Data-Intensive Computing Systems Laboratory](https://datalab.dgist.ac.kr/)
+        # quote: >
+          # [Data-Intensive Computing Systems Laboratory](https://datalab.dgist.ac.kr/)
         description: | # this will include new lines to allow paragraphs
+        [Data-Intensive Computing Systems Laboratory](https://datalab.dgist.ac.kr/)
           - File System (Operation System)
           - Code Version Management(Git/Github)
           - [Repository](https://github.com/h0han/OTFS)
