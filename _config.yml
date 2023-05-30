@@ -54,14 +54,71 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
+# EDUCATION
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: KAIST
+        caption: Daejeon, Korea <br> Sep 2023 - Present
+        sub_title: M.S.
+        # quote: >
+          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+        description: | # this will include new lines to allow paragraphs
+          During my time at DGIST, I mainly studied **Computer Science(especially Artificial Intelligence)** and **Management Engineering**.
+
+          The list below is a sample report of the major courses I took.
+          - [Introduction to Artificial Intelligence](https://drive.google.com/drive/folders/1EHmjamoYTF2JO2hJ2vNzUHFGFHmXULzn?usp=share_link)
+          - [Introduction to Control Engineering](https://drive.google.com/drive/folders/1W0sN5QeEOx1hIWptZFGWmFiCp4jXJxFf?usp=share_link)
+          - [Introduction to Numerical Analysis](https://drive.google.com/drive/folders/1-Wz4LCrDzVjibANiTdORjz8ZGzBhkjwf?usp=share_link)
+          - [Robots for Human](https://drive.google.com/drive/folders/1ym_11zvw9mZoa6RYHs0fYHm7TIjKE_Jg?usp=share_link)
+
+      - layout: left
+        title: DGIST
+        caption: Daegu, Korea <br> Feb 2019 - Feb 2023
+        sub_title: Bachelor of Engineering
+        # quote: >
+          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+        description: | # this will include new lines to allow paragraphs
+          During my time at DGIST, I mainly studied **Computer Science(especially Artificial Intelligence)** and **Management Engineering**.
+
+          The list below is a sample report of the major courses I took.
+          - [Introduction to Artificial Intelligence](https://drive.google.com/drive/folders/1EHmjamoYTF2JO2hJ2vNzUHFGFHmXULzn?usp=share_link)
+          - [Introduction to Control Engineering](https://drive.google.com/drive/folders/1W0sN5QeEOx1hIWptZFGWmFiCp4jXJxFf?usp=share_link)
+          - [Introduction to Numerical Analysis](https://drive.google.com/drive/folders/1-Wz4LCrDzVjibANiTdORjz8ZGzBhkjwf?usp=share_link)
+          - [Robots for Human](https://drive.google.com/drive/folders/1ym_11zvw9mZoa6RYHs0fYHm7TIjKE_Jg?usp=share_link)
+
+      - layout: left
+        title: Seoul National University
+        caption: Seoul, Korea <br> Dec 2021 - Jun 2022
+        sub_title: Visiting Student
+        # quote: >
+          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+        description: | # this will include new lines to allow paragraphs
+          I took courses related to industrial engineering, blockchain, management, and economics.
+
+          - Department of Business Administration
+          - Department of Economics
+
+      - layout: left
+        title: University of California, Berkeley
+        caption: California, US (Remote) <br> Jun 2021 - Aug 2021
+        sub_title: Visiting Student
+        # quote: >
+          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+        description: | # this will include new lines to allow paragraphs
+          I took courses about the media industry.
+
+          - Introduction to Media Studies
+
 # RESEARCH EXPERIENCES
   - title: Research Experiences # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: HCI Tech Lab
-        caption: Researcher <br> Mar 2023 - Present
-        sub_title: GSCT, KAIST
+        title: Human-Centered Interactive Technologies Laboratory (HCI Tech Lab)
+        caption: Research Intern <br> Mar 2023 - Jun 2023
+        sub_title: Graduate School of Culture Technology, KAIST
         # quote: >~
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
@@ -76,13 +133,13 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          - Human Re-identification``
+          - Human Re-identification
           - Pose Estimation
           - Human-Robot Interaction
           - PI : Prof. Woo-young Jung
 
       - layout: left
-        title: Data-Intensive Computing Systems Laboratory
+        title: Data-Intensive Computing Systems Laboratory (DataLab)
         caption: Research Intern <br> Jun 2020 - Oct 2020
         sub_title: Dept. of Electrical Engineering & Computer Science, DGIST
         # quote: >
@@ -148,48 +205,6 @@ content:
           - Conducting research and developing technology through a UGRP (Undergraduate Group Research Program) and proceeding to start a business.
           - Conducting a Product-market fit exploration in "AI-based home training posture guide solution" and focusing on the target demographic of older adults, and the problem of lack of exercise to develop the product.
           <br> <br>
-
-# EDUCATION
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: DGIST
-        caption: Daegu, Korea <br> Feb 2019 - Feb 2023
-        sub_title: Bachelor of Engineering
-        # quote: >
-          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
-        description: | # this will include new lines to allow paragraphs
-          During my time at DGIST, I mainly studied **Computer Science(especially Artificial Intelligence)** and **Management Engineering**.
-
-          The list below is a sample report of the major courses I took.
-          - [Introduction to Artificial Intelligence](https://drive.google.com/drive/folders/1EHmjamoYTF2JO2hJ2vNzUHFGFHmXULzn?usp=share_link)
-          - [Introduction to Control Engineering](https://drive.google.com/drive/folders/1W0sN5QeEOx1hIWptZFGWmFiCp4jXJxFf?usp=share_link)
-          - [Introduction to Numerical Analysis](https://drive.google.com/drive/folders/1-Wz4LCrDzVjibANiTdORjz8ZGzBhkjwf?usp=share_link)
-          - [Robots for Human](https://drive.google.com/drive/folders/1ym_11zvw9mZoa6RYHs0fYHm7TIjKE_Jg?usp=share_link)
-
-      - layout: left
-        title: Seoul National University
-        caption: Seoul, Korea <br> Dec 2021 - Jun 2022
-        sub_title: Visiting Student
-        # quote: >
-          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
-        description: | # this will include new lines to allow paragraphs
-          I took courses related to industrial engineering, blockchain, management, and economics.
-
-          - Department of Business Administration
-          - Department of Economics
-
-      - layout: left
-        title: University of California, Berkeley
-        caption: California, US (Remote) <br> Jun 2021 - Aug 2021
-        sub_title: Visiting Student
-        # quote: >
-          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
-        description: | # this will include new lines to allow paragraphs
-          I took courses about the media industry.
-
-          - Introduction to Media Studies
 
 # RESEARCH INTERSTS
   - title: Research Interests # Title for the section
