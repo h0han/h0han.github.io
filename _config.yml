@@ -65,13 +65,12 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          During my time at DGIST, I mainly studied **Computer Science(especially Artificial Intelligence)** and **Management Engineering**.
+          I'm focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
 
-          The list below is a sample report of the major courses I took.
-          - [Introduction to Artificial Intelligence](https://drive.google.com/drive/folders/1EHmjamoYTF2JO2hJ2vNzUHFGFHmXULzn?usp=share_link)
-          - [Introduction to Control Engineering](https://drive.google.com/drive/folders/1W0sN5QeEOx1hIWptZFGWmFiCp4jXJxFf?usp=share_link)
-          - [Introduction to Numerical Analysis](https://drive.google.com/drive/folders/1-Wz4LCrDzVjibANiTdORjz8ZGzBhkjwf?usp=share_link)
-          - [Robots for Human](https://drive.google.com/drive/folders/1ym_11zvw9mZoa6RYHs0fYHm7TIjKE_Jg?usp=share_link)
+          The list below is my research topics.
+          - Entertainment Activities with Haptics
+          - Motion Guidance with Haptics
+          - Haptic Rendering & Feedback
 
       - layout: left
         title: DGIST
