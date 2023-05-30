@@ -282,6 +282,7 @@ content:
         # subtitle : [full deck](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)
         # link: 
         # link_text: Project Website
+        additional_links:
 
         quote: >
           Culture Technology R&D, Korea Creative Content Agency (KOCCA), (April 2023 ~ December 2025)
@@ -294,7 +295,6 @@ content:
           body motion-based performing arts experience and practice to learn the results.
           
 	        - Verification of educational effect through application and demonstration to metaverse-based K-content in which multiple experiencers participate.
-
 
       - layout: top-middle
         title: Development of applications to help explore and validate sustainable cryptocurrency projects
