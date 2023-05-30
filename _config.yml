@@ -58,19 +58,19 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: KAIST
-        caption: Daejeon, Korea <br> Sep 2023 - Present
-        sub_title: M.S. Candidate
-        # quote: >
-          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
-        description: | # this will include new lines to allow paragraphs
-          I'm focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
+      # - layout: left
+      #   title: KAIST
+      #   caption: Daejeon, Korea <br> Sep 2023 - Present
+      #   sub_title: M.S. Candidate
+      #   # quote: >
+      #     # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+      #   description: | # this will include new lines to allow paragraphs
+      #     I'm focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
 
-          The list below is my research topics.
-          - Entertainment Activities with Haptics
-          - Motion Guidance with Haptics
-          - Haptic Rendering & Feedback
+      #     The list below is my research topics.
+      #     - Entertainment Activities with Haptics
+      #     - Motion Guidance with Haptics
+      #     - Haptic Rendering & Feedback
 
       - layout: left
         title: DGIST
@@ -121,7 +121,7 @@ content:
         # quote: >
           # asd
         description: | # this will include new lines to allow paragraphs
-        [Human-Centered Interactive Technologies Laboratory](https://hcitech.org/)
+          **[Human-Centered Interactive Technologies Laboratory](https://hcitech.org/)**
           - Motion Guidance based on Haptics
           - Haptic Rendering & Feedback
           - PI : Prof. Sang-Ho Yoon
@@ -145,7 +145,7 @@ content:
         # quote: >
           # [Data-Intensive Computing Systems Laboratory](https://datalab.dgist.ac.kr/)
         description: | # this will include new lines to allow paragraphs
-        [Data-Intensive Computing Systems Laboratory](https://datalab.dgist.ac.kr/)
+          **[Data-Intensive Computing Systems Laboratory](https://datalab.dgist.ac.kr/)**
           - File System (Operation System)
           - Code Version Management(Git/Github)
           - [Repository](https://github.com/h0han/OTFS)
