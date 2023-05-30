@@ -118,8 +118,8 @@ content:
         title: HCI Tech Lab
         caption: Research Intern <br> Mar 2023 - Jun 2023
         sub_title: Graduate School of Culture Technology, KAIST
-        quote: [Human-Centered Interactive Technologies Laboratory])(https://hcitech.org/)
-          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+        quote: >
+          [Human-Centered Interactive Technologies Laboratory](https://hcitech.org/)
         description: | # this will include new lines to allow paragraphs
           - Motion Guidance based on Haptics
           - Haptic Rendering & Feedback
