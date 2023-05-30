@@ -282,17 +282,15 @@ content:
         # subtitle : [full deck](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)
         # link: 
         # link_text: Project Website
-        additional_links:
+        # additional_links:
         quote: >
           Culture Technology R&D, Korea Creative Content Agency (KOCCA), (April 2023 ~ December 2025)
         description: | # this will include new lines to allow paragraphs
           **<mark>Researcher</mark>**
           
-          Purpose	
-          - Establish a real-time interaction-based education platform such as real-virtual convergence interaction, 
-            motion similarity measurement, and interaction application content authoring so that it can be used simultaneously for 
-              body motion-based performing arts experience and practice to learn the results.
-	        - Verification of educational effect through application and demonstration to metaverse-based K-content in which multiple experiencers participate.
+          Purpose	: Establish a real-time interaction-based education platform such as real-virtual convergence interaction, 
+          motion similarity measurement, and interaction application content authoring so that it can be used simultaneously for 
+            body motion-based performing arts experience and practice to learn the results.
 
       - layout: top-middle
         title: Development of applications to help explore and validate sustainable cryptocurrency projects
