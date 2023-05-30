@@ -283,17 +283,16 @@ content:
         # link: 
         # link_text: Project Website
         additional_links:
-
         quote: >
           Culture Technology R&D, Korea Creative Content Agency (KOCCA), (April 2023 ~ December 2025)
         description: | # this will include new lines to allow paragraphs
           **<mark>Researcher</mark>**
           
           Purpose	
-          
+
           - Establish a real-time interaction-based education platform such as real-virtual convergence interaction, 
-          motion similarity measurement, and interaction application content authoring so that it can be used simultaneously for 
-          body motion-based performing arts experience and practice to learn the results.
+            motion similarity measurement, and interaction application content authoring so that it can be used simultaneously for 
+              body motion-based performing arts experience and practice to learn the results.
           
 	        - Verification of educational effect through application and demonstration to metaverse-based K-content in which multiple experiencers participate.
 
@@ -306,9 +305,6 @@ content:
           - title:  Project Repository
             icon: fab fa-github
             url: github.com/h0han/bc_2022
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           Term Project of Field Application of Blockchain I (Spring, 2022; SNU) · Selected as an excellent project (Top 3 out of 13 teams)
         description: | # this will include new lines to allow paragraphs
