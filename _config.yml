@@ -280,13 +280,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Development of Real-time Virtual Convergence-based Performing Arts Education Platform Technology (ETRI)
+        title: Real-time virtual convergence-based performing arts education platform technology
         # subtitle : [full deck](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)
         # link: 
         # link_text: Project Website
         # additional_links:
         quote: >
-          Culture Technology R&D, Korea Creative Content Agency (KOCCA), (April 2023 ~ December 2025)
+          Collaborated with ETRI, 1Million, EBS <br> Culture Technology R&D, Korea Creative Content Agency (KOCCA), (April 2023 ~ December 2025)
         description: | # this will include new lines to allow paragraphs
           **<mark>Researcher</mark>**
           
@@ -332,14 +332,15 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           **<mark>Team Lead</mark>**
-
+          《Development and Application of an Integrated AI Framework for Motion Analysis and Posture Correction for Future Healthcare》
+          
           **Project 1. A Person Re-Identification and Tracking Algorithm in Mobile Environment for
-           Human-Robot Interaction** [ISET 2021 (Poster session)]
+           Human-Robot Interaction** 
           - Research details: The aim is to implement a system for tracking individuals in environments such as homes and offices by performing object detection and re-identification on mobile devices. The process involves choosing a lightweight network suitable for mobile environments and optimizing each model for the task at hand, allowing for high performance identification and tracking of registered users in real-time video.
           - **[Poster](https://drive.google.com/file/d/1t9dMgNJQ4nH_gyXpRz0vDYpHCprF3Me6/view?usp=sharing)**
 
           **Project 2. Lightening of the high-performance Pose Estimation model in the video using Pointwise
-           Similarity** [IMEMK Autumn Conference 2021 (Poster session)]
+           Similarity** 
           - Research details: The goal is to apply pose estimation to videos. The aim is to design a network that incorporates high accuracy and frame rate by utilizing the correlation between video frames, and to try different encoding methods and frequencies in order to achieve optimal results.
           - **[Poster](https://drive.google.com/file/d/1hUGeQby543sDRel5defIRpZKUF4ecG_y/view?usp=sharing)**
 
