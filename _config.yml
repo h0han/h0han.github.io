@@ -383,13 +383,13 @@ content:
         title: Lightening of the high-performance Pose Estimation model in the video using Pointwise Similarity
         # subtitle : 
         quote: >
-          [IMEMK Autumn Conference 2021 Poster session] <br> Jaehyun Pahk<sup>1<sup>, Hyunwoo Kwak<sup>1<sup>, <U>Hyunyoung Han<sup>1<sup></U>, Junkwang Kim<sup>2<sup>, Wooyoung Jung<sup>2<sup>
+          [IMEMK Autumn Conference 2021 Poster session] <br> Jaehyun Pahk<sup>1</sup>, Hyunwoo Kwak<sup>1</sup>, <U>Hyunyoung Han<sup>1</sup></U>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2</sup>
 
       - layout: top-middle
         title: A Person Re-Identification and Tracking Algorithm in Mobile Environment for Human-Robot Interaction
         # subtitle : 
         quote: >
-          [The 16th IEMEK Symposium on Embedded Technology Poster Session] <br> <U>Hyunyoung Han<sup>1<sup></U>, Jaehyun Pahk<sup>1<sup>, Doowon Choe<sup>1<sup>, Junkwang Kim<sup>2<sup>, Wooyoung Jung<sup>2<sup>
+          [The 16th IEMEK Symposium on Embedded Technology Poster Session] <br> <U>Hyunyoung Han<sup>1</sup></U>, Jaehyun Pahk<sup>1</sup>, Doowon Choe<sup>1</sup>, Junkwang Kim<sup>2</sup>, Wooyoung Jung</sup>2<sup>
 
       - layout: top-middle
         title: 경량화된 자세 추정 모델 제공 장치 및 방법
