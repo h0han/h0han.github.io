@@ -331,9 +331,9 @@ content:
           Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
 
         description: | # this will include new lines to allow paragraphs
-          **<mark>Team Lead</mark>**
+          **<mark>Team Lead</mark>** <br>
           《Development and Application of an Integrated AI Framework for Motion Analysis and Posture Correction for Future Healthcare》
-          
+
           **Project 1. A Person Re-Identification and Tracking Algorithm in Mobile Environment for
            Human-Robot Interaction** 
           - Research details: The aim is to implement a system for tracking individuals in environments such as homes and offices by performing object detection and re-identification on mobile devices. The process involves choosing a lightweight network suitable for mobile environments and optimizing each model for the task at hand, allowing for high performance identification and tracking of registered users in real-time video.
