@@ -58,19 +58,19 @@ content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      # - layout: left
-      #   title: KAIST
-      #   caption: Daejeon, Korea <br> Sep 2023 - Present
-      #   sub_title: M.S. Candidate
-      #   # quote: >
-      #     # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
-      #   description: | # this will include new lines to allow paragraphs
-      #     I'm focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
+      - layout: left
+        title: KAIST
+        caption: Daejeon, Korea <br> Sep 2023 - Present
+        sub_title: M.S. Student
+        # quote: >
+          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+        description: | # this will include new lines to allow paragraphs
+          I'm focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
 
-      #     The list below is my research topics.
-      #     - Entertainment Activities with Haptics
-      #     - Motion Guidance with Haptics
-      #     - Haptic Rendering & Feedback
+          The list below is my research topics.
+          - Entertainment Activities with Haptics
+          - Motion Guidance with Haptics
+          - Haptic Rendering & Feedback
 
       - layout: left
         title: DGIST
@@ -116,7 +116,7 @@ content:
     content:
       - layout: left
         title: HCI Tech Lab
-        caption: Research Intern <br> Mar 2023 - Jun 2023
+        caption: Research Intern <br> Mar 2023 - Sep 2023
         sub_title: Graduate School of Culture Technology, KAIST
         # quote: >
           # asd
