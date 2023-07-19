@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Harry Hyunyoung Han
 title: HCI Researcher 
-email: hyhan.dev@gmail.com
+email: hyhan@kaist.ac.kr
 # website: https://h0han.github.io/resume/
 
 # Dark Mode (true/false/never)
@@ -67,7 +67,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I'm focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
 
-          The list below is my research topics.
+          I'm interested in the research topics below.
           - Entertainment Activities with Haptics
           - Motion Guidance with Haptics
           - Haptic Rendering & Feedback
