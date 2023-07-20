@@ -60,7 +60,7 @@ content:
     content:
       - layout: left
         title: KAIST
-        caption: Daejeon, Korea <br> Sep 2023 - Present
+        caption: Daejeon, South Korea <br> Sep 2023 - Present
         sub_title: M.S. Candidate
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
@@ -74,7 +74,7 @@ content:
 
       - layout: left
         title: DGIST
-        caption: Daegu, Korea <br> Feb 2019 - Feb 2023
+        caption: Daegu, South Korea <br> Feb 2019 - Feb 2023
         sub_title: Bachelor of Engineering
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
@@ -89,7 +89,7 @@ content:
 
       - layout: left
         title: Seoul National University
-        caption: Seoul, Korea <br> Dec 2021 - Jun 2022
+        caption: Seoul, South Korea <br> Dec 2021 - Jun 2022
         sub_title: Visiting Student
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
