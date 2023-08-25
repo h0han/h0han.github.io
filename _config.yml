@@ -65,7 +65,7 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          I'm in [HCI Tech Lab](https://hcitech.org/index.html) in Graduate School of Culture Technology under advising prof. Sang Ho Yoon, and focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
+          I'm in **[HCI Tech Lab](https://hcitech.org/index.html)** in Graduate School of Culture Technology under advising prof. Sang Ho Yoon, and focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
 
           I'm interested in the research topics below.
           - Entertainment Activities with Haptics
