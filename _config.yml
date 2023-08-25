@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Harry Hyunyoung Han
 title: HCI Researcher 
-email: hyhan.dev@gmail.com
+email: hyhan@kaist.ac.kr
 # website: https://h0han.github.io/resume/
 
 # Dark Mode (true/false/never)
@@ -33,7 +33,7 @@ github_username:  h0han
 additional_links:
 - title: Download CV 
   icon: far fa-file-pdf
-  url: https://drive.google.com/file/d/10cJ7r2PsZ8VvNoG0LuiSxUDamBH0Smrx/view?usp=sharing
+  url: https://drive.google.com/file/d/1jUAhLApmclGPZnUi62asQxxGmN5uWXdv/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -60,21 +60,21 @@ content:
     content:
       - layout: left
         title: KAIST
-        caption: Daejeon, Korea <br> Sep 2023 - Present
+        caption: Daejeon, South Korea <br> Sep 2023 - Present
         sub_title: M.S. Candidate
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
           I'm focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
 
-          The list below is my research topics.
+          I'm interested in the research topics below.
           - Entertainment Activities with Haptics
           - Motion Guidance with Haptics
           - Haptic Rendering & Feedback
 
       - layout: left
         title: DGIST
-        caption: Daegu, Korea <br> Feb 2019 - Feb 2023
+        caption: Daegu, South Korea <br> Feb 2019 - Feb 2023
         sub_title: Bachelor of Engineering
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
@@ -89,7 +89,7 @@ content:
 
       - layout: left
         title: Seoul National University
-        caption: Seoul, Korea <br> Dec 2021 - Jun 2022
+        caption: Seoul, South Korea <br> Dec 2021 - Jun 2022
         sub_title: Visiting Student
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
