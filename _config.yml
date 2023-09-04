@@ -65,7 +65,7 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          I'm in **[HCI Tech Lab](https://hcitech.org/index.html)** in Graduate School of Culture Technology under advising prof. Sang Ho Yoon, and focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
+          I'm in **[HCI Tech Lab](https://hcitech.org/index.html)** in Graduate School of Culture Technology supervised by prof. Sang Ho Yoon, and focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
 
           I'm interested in the research topics below.
           - Entertainment Activities with Haptics
@@ -423,6 +423,19 @@ content:
       **🏆  National Scholarship at DGIST** - Awarded by Ministry of Science and ICT, Republic of Korea · Feb 2019
 
       [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fh0han.github.io&count_bg=%238FA3D5&title_bg=%23555555&icon=meteor.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+# Academic Activities
+  - title: Academic Activities # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Reviewer
+        # caption: Project/Product Manager <br> Jun 2021 - Nov 2022
+        # sub_title: StartUp
+        # quote: >
+          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+        description: | # this will include new lines to allow paragraphs
+          - CSCW 2024
 
 
 # Footer
