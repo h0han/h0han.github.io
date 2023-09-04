@@ -397,6 +397,19 @@ content:
         quote: >
           Patent application · Nov 24, 2021 <br> <br>
 
+# Academic Activities
+  - title: Academic Activities # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Reviewer
+        # caption: Project/Product Manager <br> Jun 2021 - Nov 2022
+        # sub_title: StartUp
+        # quote: >
+          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+        description: | # this will include new lines to allow paragraphs
+          - CSCW 2024 <br> <br>
+
 # AWARDS
   - title: Awards & Honors # Title for the section
     layout: text # Type of content section (list/text)
@@ -424,18 +437,6 @@ content:
 
       [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fh0han.github.io&count_bg=%238FA3D5&title_bg=%23555555&icon=meteor.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# Academic Activities
-  - title: Academic Activities # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Reviewer
-        # caption: Project/Product Manager <br> Jun 2021 - Nov 2022
-        # sub_title: StartUp
-        # quote: >
-          # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
-        description: | # this will include new lines to allow paragraphs
-          - CSCW 2024
 
 
 # Footer
