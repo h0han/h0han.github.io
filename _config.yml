@@ -78,14 +78,15 @@ content:
         sub_title: Bachelor of Engineering
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
+          # The list below is a sample report of the major courses I took.
+          # - [Introduction to Artificial Intelligence](https://drive.google.com/drive/folders/1EHmjamoYTF2JO2hJ2vNzUHFGFHmXULzn?usp=share_link)
+          # - [Introduction to Control Engineering](https://drive.google.com/drive/folders/1W0sN5QeEOx1hIWptZFGWmFiCp4jXJxFf?usp=share_link)
+          # - [Introduction to Numerical Analysis](https://drive.google.com/drive/folders/1-Wz4LCrDzVjibANiTdORjz8ZGzBhkjwf?usp=share_link)
+          # - [Robots for Human](https://drive.google.com/drive/folders/1ym_11zvw9mZoa6RYHs0fYHm7TIjKE_Jg?usp=share_link)
         description: | # this will include new lines to allow paragraphs
           During my time at DGIST, I mainly studied **Computer Science(especially Artificial Intelligence)** and **Management Engineering**.
 
-          The list below is a sample report of the major courses I took.
-          - [Introduction to Artificial Intelligence](https://drive.google.com/drive/folders/1EHmjamoYTF2JO2hJ2vNzUHFGFHmXULzn?usp=share_link)
-          - [Introduction to Control Engineering](https://drive.google.com/drive/folders/1W0sN5QeEOx1hIWptZFGWmFiCp4jXJxFf?usp=share_link)
-          - [Introduction to Numerical Analysis](https://drive.google.com/drive/folders/1-Wz4LCrDzVjibANiTdORjz8ZGzBhkjwf?usp=share_link)
-          - [Robots for Human](https://drive.google.com/drive/folders/1ym_11zvw9mZoa6RYHs0fYHm7TIjKE_Jg?usp=share_link)
+
 
       - layout: left
         title: Seoul National University
@@ -208,71 +209,71 @@ content:
           <br> <br>
 
 # RESEARCH INTERSTS
-  - title: Research Interests # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: XR, Haptics
-        # link: 
-        # link_text: Project Website
-        additional_links:
-          # - title:  Project Repository
-          #   icon: fab fa-github
-          #   url: github.com/h0han/bc_2022
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
+#   - title: Research Interests # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: top-middle
+#         title: XR, Haptics
+#         # link: 
+#         # link_text: Project Website
+#         additional_links:
+#           # - title:  Project Repository
+#           #   icon: fab fa-github
+#           #   url: github.com/h0han/bc_2022
+#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#           #   icon: fab fa-github
+#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         # quote: >
+#         #   Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
 
-        description: | # this will include new lines to allow paragraphs
-          **<mark>AR/VR</mark>** , **<mark>Haptic Rendering</mark>** , **<mark>Haptic Feedback</mark>**
+#         description: | # this will include new lines to allow paragraphs
+#           **<mark>AR/VR</mark>** , **<mark>Haptic Rendering</mark>** , **<mark>Haptic Feedback</mark>**
 
-          <img src="images/vr_ferret_2.png" alt="vr w/ ferret" width="30%"/>
-          <img src="images/haptX_ferret.png" alt="haptX w/ ferret" width="30%"/>
-# ![HaptX](images/haptX_ferret.png "HaptX")
-# ![XR](images/vr_ferret_2.png "XR")
+#           <img src="images/vr_ferret_2.png" alt="vr w/ ferret" width="30%"/>
+#           <img src="images/haptX_ferret.png" alt="haptX w/ ferret" width="30%"/>
+# # ![HaptX](images/haptX_ferret.png "HaptX")
+# # ![XR](images/vr_ferret_2.png "XR")
 
-      - layout: top-middle
-        title: Computer Vision
-        # link: 
-        # link_text: Project Website
-        additional_links:
-          # - title:  Project Repository
-          #   icon: fab fa-github
-          #   url: github.com/h0han/bc_2022
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
+#       - layout: top-middle
+#         title: Computer Vision
+#         # link: 
+#         # link_text: Project Website
+#         additional_links:
+#           # - title:  Project Repository
+#           #   icon: fab fa-github
+#           #   url: github.com/h0han/bc_2022
+#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#           #   icon: fab fa-github
+#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         # quote: >
+#         #   Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
 
-        description: | # this will include new lines to allow paragraphs
-          **Related to Human** : **<mark>2D/3D Pose Estimation</mark>** , **<mark>Segmentation</mark>** , **<mark>Detection</mark>**
+#         description: | # this will include new lines to allow paragraphs
+#           **Related to Human** : **<mark>2D/3D Pose Estimation</mark>** , **<mark>Segmentation</mark>** , **<mark>Detection</mark>**
           
-          ![OMG](images/gif/OMG_output_clip_rsz.gif "OMG")
-          ![JPARK](images/jpark_output_cvrt.gif "JPARK")
+#           ![OMG](images/gif/OMG_output_clip_rsz.gif "OMG")
+#           ![JPARK](images/jpark_output_cvrt.gif "JPARK")
 
 
-      - layout: top-middle
-        title: Computer Graphics
-        # subtitle : [full deck](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)
-        # link: 
-        # link_text: Project Website
-        # additional_links:
-        #   - title:  Project Repository
-        #     icon: fab fa-github
-        #     url: github.com/h0han/bc_2022
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   Term Project of Field Application of Blockchain I (Spring, 2022; SNU) · Selected as an excellent project (Top 3 out of 13 teams)
-        description: | # this will include new lines to allow paragraphs
-          **Generative Models** : **<mark>NeRF</mark>** , **<mark>Diffusion</mark>** , **<mark>GAN</mark>** , **<mark>VAE</mark>**
+#       - layout: top-middle
+#         title: Computer Graphics
+#         # subtitle : [full deck](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)
+#         # link: 
+#         # link_text: Project Website
+#         # additional_links:
+#         #   - title:  Project Repository
+#         #     icon: fab fa-github
+#         #     url: github.com/h0han/bc_2022
+#           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+#           #   icon: fab fa-github
+#           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+#         # quote: >
+#         #   Term Project of Field Application of Blockchain I (Spring, 2022; SNU) · Selected as an excellent project (Top 3 out of 13 teams)
+#         description: | # this will include new lines to allow paragraphs
+#           **Generative Models** : **<mark>NeRF</mark>** , **<mark>Diffusion</mark>** , **<mark>GAN</mark>** , **<mark>VAE</mark>**
 
-          ![Diffusion1](images/iloveimg-resized/diffusion1.png "Diffusion1")
-          ![Diffusion2](images/iloveimg-resized/diffusion2.png "Diffusion2")
+#           ![Diffusion1](images/iloveimg-resized/diffusion1.png "Diffusion1")
+#           ![Diffusion2](images/iloveimg-resized/diffusion2.png "Diffusion2")
 
 
 # PROJECTS
