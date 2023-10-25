@@ -48,9 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile_2022.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I have a passion for improving **<mark>HCI</mark>** and **<mark>UX</mark>** in XR and metaverse environments. 
-  I believe a fundamental HCI approach, which prioritizes user convenience in the XR-Metaverse connection process, is crucial for effective metaverse operation. 
-  I aspire to stay ahead of emerging technologies, apply them strategically, and drive growth through informed decision-making.
+  I aim to deeply commit to pioneering efforts that enhance seamless interactions between products or services and users at the endpoints, applying cutting-edge technologies. 
+  My interest lies in conducting research to create user experiences that transcend spatial and temporal constraints, enabling the enjoyment of a diverse range of entertainment activities. 
+  It is my aspiration to conduct research that is both delightful and enriching for all parties involved, including both the target users and the researchers.
 
 content:
 
@@ -282,12 +282,12 @@ content:
     content:
       - layout: top-middle
         title: Real-time virtual convergence-based performing arts education platform technology
-        subtitle : (실시간 실가상 융합 기반 공연예술 교육 플랫폼 기술개발)
+        # subtitle : (실시간 실가상 융합 기반 공연예술 교육 플랫폼 기술개발)
         # link: 
         # link_text: Project Website
         # additional_links:
         quote: >
-          Collaborated with ETRI, 1Million, EBS <br> Culture Technology R&D, Korea Creative Content Agency (KOCCA), (April 2023 ~ December 2025)
+          (실시간 실가상 융합 기반 공연예술 교육 플랫폼 기술개발) Collaborated with ETRI, 1Million, EBS <br> Culture Technology R&D, Korea Creative Content Agency (KOCCA), (April 2023 ~ December 2025)
         description: | # this will include new lines to allow paragraphs
           **<mark>Researcher</mark>**
           
@@ -302,8 +302,8 @@ content:
         # link_text: Project Website
         additional_links:
           - title:  Project Repository
-            icon: fab fa-github
-            url: github.com/h0han/bc_2022
+            # icon: fab fa-github
+            # url: github.com/h0han/bc_2022
         quote: >
           Term Project of Field Application of Blockchain I (Spring, 2022; SNU) · Selected as an excellent project (Top 3 out of 13 teams)
         description: | # this will include new lines to allow paragraphs
@@ -315,7 +315,7 @@ content:
             was promoted by using a chatbot so that it could be viewed momentarily in the messenger.
              This project is implemented in Python and Dune Analytics.
 
-          - **[KeyNote (Full-deck)](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)**
+        # - **[KeyNote (Full-deck)](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)**
 
 
       - layout: top-middle
