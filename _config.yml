@@ -12,7 +12,7 @@ email: hyhan@kaist.ac.kr
 # website: https://h0han.github.io/resume/
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 linkedin_username: hyhan
@@ -282,7 +282,7 @@ content:
     content:
       - layout: top-middle
         title: Real-time virtual convergence-based performing arts education platform technology
-        # subtitle : [full deck](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)
+        subtitle : (실시간 실가상 융합 기반 공연예술 교육 플랫폼 기술개발)
         # link: 
         # link_text: Project Website
         # additional_links:
@@ -317,6 +317,7 @@ content:
 
           - **[KeyNote (Full-deck)](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)**
 
+
       - layout: top-middle
         title: Undergraduate Group Research Program (UGRP)
         # link: 
@@ -345,36 +346,36 @@ content:
           - Research details: The goal is to apply pose estimation to videos. The aim is to design a network that incorporates high accuracy and frame rate by utilizing the correlation between video frames, and to try different encoding methods and frequencies in order to achieve optimal results.
           - **[Poster](https://drive.google.com/file/d/1hUGeQby543sDRel5defIRpZKUF4ecG_y/view?usp=sharing)**
 
-      - layout: top-middle
-        title: Will You Match Me? UGRP! (Matching program for UGRP Team Members)
-        # link: 
-        # link_text: Project Website
-        additional_links:
-          - title:  Project Repository
-            icon: fab fa-github
-            url: https://github.com/h0han/SE271_project
+      # - layout: top-middle
+      #   title: Will You Match Me? UGRP! (Matching program for UGRP Team Members)
+      #   # link: 
+      #   # link_text: Project Website
+      #   additional_links:
+      #     - title:  Project Repository
+      #       icon: fab fa-github
+      #       url: https://github.com/h0han/SE271_project
 
-        quote: >
-          Term Project of Object-Oriented Programming (Fall, 2021; DGIST)
+      #   quote: >
+      #     Term Project of Object-Oriented Programming (Fall, 2021; DGIST)
 
-        description: | # this will include new lines to allow paragraphs
-          The purpose of this project is that the weighting should be well set to rank students' data and quantity. We aim to help students form a well-matched team by considering not only the field of research or major, but also interpersonal factors. This project is implemented in C++.
+      #   description: | # this will include new lines to allow paragraphs
+      #     The purpose of this project is that the weighting should be well set to rank students' data and quantity. We aim to help students form a well-matched team by considering not only the field of research or major, but also interpersonal factors. This project is implemented in C++.
 
-      - layout: top-middle
-        title: A simple calculator design
-        # link: 
-        # link_text: Project Website
-        additional_links:
-          - title:  Project Repository
-            icon: fab fa-github
-            url: https://github.com/h0han/SE273_project
+      # - layout: top-middle
+      #   title: A simple calculator design
+      #   # link: 
+      #   # link_text: Project Website
+      #   additional_links:
+      #     - title:  Project Repository
+      #       icon: fab fa-github
+      #       url: https://github.com/h0han/SE273_project
 
-        quote: >
-          Term Project of Digital Logic Design (Fall, 2021; DGIST)
+      #   quote: >
+      #     Term Project of Digital Logic Design (Fall, 2021; DGIST)
 
-        description: | # this will include new lines to allow paragraphs
-          Purpose : Designing a simple calculator that performs addition, subtraction, and multiplication. Algorithm for each operation shall be implemented using SM chart, but shall be designed using minimal logic, and the design shall be designed in a top-down manner, but after verifying the design of each block, the entire block is integrated to complete the design. Use simulation through test bench to verify the circuit that you designed. This project is implemented in VHDL.
-          <br> <br>
+      #   description: | # this will include new lines to allow paragraphs
+      #     Purpose : Designing a simple calculator that performs addition, subtraction, and multiplication. Algorithm for each operation shall be implemented using SM chart, but shall be designed using minimal logic, and the design shall be designed in a top-down manner, but after verifying the design of each block, the entire block is integrated to complete the design. Use simulation through test bench to verify the circuit that you designed. This project is implemented in VHDL.
+      #     <br> <br>
 
 # PUBLICATIONS
   - title: Publications & Patents # Title for the section
@@ -384,7 +385,7 @@ content:
         title: Lightening of the high-performance Pose Estimation model in the video using Pointwise Similarity
         # subtitle : 
         quote: >
-          [IMEMK Autumn Conference 2021 Poster session] <br> Jaehyun Pahk<sup>1</sup>, Hyunwoo Kwak<sup>1</sup>, <U>Hyunyoung Han<sup>1</sup></U>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2</sup>
+          [IEMEK Autumn Conference 2021 Poster session] <br> Jaehyun Pahk<sup>1</sup>, Hyunwoo Kwak<sup>1</sup>, <U>Hyunyoung Han<sup>1</sup></U>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2</sup>
 
       - layout: top-middle
         title: A Person Re-Identification and Tracking Algorithm in Mobile Environment for Human-Robot Interaction
