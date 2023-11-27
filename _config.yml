@@ -412,30 +412,35 @@ content:
         description: | # this will include new lines to allow paragraphs
           - CSCW 2024 <br> <br>
 
+        title: Student Volunteer
+        description: |
+          - 1st Korea Haptics Conference <br> <br>
+
 # AWARDS
   - title: Awards & Honors # Title for the section
     layout: text # Type of content section (list/text)
     content: |
-      **🏆  Kyu-Young Whang, Ph.D. Award for Best Research at UGRP** - Issued by DGIST · Feb 2022
+      **🏆  Student Innovation Callenge Sponsored by Hyundai Motor Group: Excellent Award (2nd Prize)** - Issued by Korea Haptics Society · Nov 2023
+
+      **🏆  Student Innovation Callenge Sponsored by LG Electronics: Excellent Award (2nd Prize)** - Issued by Korea Haptics Society · Nov 2023
+
+      **🏆  Kyu-Young Whang, Ph.D. Award for Best Research at UGRP (1st Prize)** - Issued by DGIST · Feb 2022
       - 《Development and Application of an Integrated AI Framework for Motion Analysis and Posture Correction for Future Healthcare》
 
       **🏆  2021 DGIST Dean's List** - Issued by DGIST · Feb 2022
 
-      **🏆  Best Clutcher** - Issued by 2020 CLUTCH League · Dec 2020
+      **🏆  2020 CLUTCH League Best Clutcher (3rd Prize)** - Issued by  · Dec 2020
       - 《Personal vocal guide, “LetmeSing”, through analysis of user sentiment and tone》
       
-      **🏆  Excellent Award** - Issued by 2020 DGIST Student Startup Competition · Sep 2020
+      **🏆  2020 DGIST Student Startup Competition: Excellent Award (2nd Prize)** - Issued by DGIST · Sep 2020
       - 《Personal vocal guide, “LetmeSing”, through analysis of user sentiment and tone》
       
-      **🏆  Excellent Award** - Issued by 2020 Daegu Gyeongbuk Region Hackathon organized by LIKELION · Aug 2020
+      **🏆  2020 Daegu Gyeongbuk Region Hackathon: Excellent Award (2nd Prize)** - Issued by  LIKELION · Aug 2020
       - 《A service that lowers the accessibility of consulting for small business owners and provides various practical experiences for college students》
-      
-      **🏆  4th Prize** - Issued by 2020 Daegu Gyeongbuk Ideathon organized by LIKELION · May 2020
-      - 《[Re:Together]; Reading Together in a socially-disconnected era caused by COVID-19》
       
       **🏆  Advancement into the finalist** - Issued by 2019 DGB Social Contribution Project Idea Contest · Aug 2019
       
-      **🏆  National Scholarship at DGIST** - Awarded by Ministry of Science and ICT, Republic of Korea · Feb 2019
+      **🏆  National Scholarship (Full tuition)** - Awarded by Ministry of Science and ICT, Republic of Korea · Feb 2019
 
       [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fh0han.github.io&count_bg=%238FA3D5&title_bg=%23555555&icon=meteor.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
