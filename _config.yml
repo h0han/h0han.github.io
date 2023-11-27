@@ -377,27 +377,32 @@ content:
       #     Purpose : Designing a simple calculator that performs addition, subtraction, and multiplication. Algorithm for each operation shall be implemented using SM chart, but shall be designed using minimal logic, and the design shall be designed in a top-down manner, but after verifying the design of each block, the entire block is integrated to complete the design. Use simulation through test bench to verify the circuit that you designed. This project is implemented in VHDL.
       #     <br> <br>
 
-# PUBLICATIONS
-  - title: Publications & Patents # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Lightening of the high-performance Pose Estimation model in the video using Pointwise Similarity
-        # subtitle : 
-        quote: >
-          [IEMEK Autumn Conference 2021 Poster session] <br> Jaehyun Pahk<sup>1</sup>, Hyunwoo Kwak<sup>1</sup>, <U>Hyunyoung Han<sup>1</sup></U>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2</sup>
+# # PUBLICATIONS
+#   - title: Publications & Patents # Title for the section
+#     layout: list # Type of content section (list/text)
+#     content:
+#       - layout: top-middle
+#         title: Exploratory study on dance motion guidance adapted dynamic time warping algorithm and haptic feedback system based on low-latency motion similarity comparison
+#         quote: >
+#           [Korea Haptic Conference 2023 Poster session] <br> Hyunyoung Han<sup>1</sup>, Kyungeun Jung<sup>1</sup>, <U>Hyunyoung Han<sup>1</sup></U>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2</sup>
 
-      - layout: top-middle
-        title: A Person Re-Identification and Tracking Algorithm in Mobile Environment for Human-Robot Interaction
-        # subtitle : 
-        quote: >
-          [The 16th IEMEK Symposium on Embedded Technology Poster Session] <br> <U>Hyunyoung Han<sup>1</sup></U>, Jaehyun Pahk<sup>1</sup>, Doowon Choe<sup>1</sup>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2</sup>
+#       - layout: top-middle
+#         title: Lightening of the high-performance Pose Estimation model in the video using Pointwise Similarity
+#         # subtitle : 
+#         quote: >
+#           [IEMEK Autumn Conference 2021 Poster session] <br> Jaehyun Pahk<sup>1</sup>, Hyunwoo Kwak<sup>1</sup>, <U>Hyunyoung Han<sup>1</sup></U>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2*</sup>
 
-      - layout: top-middle
-        title: 경량화된 자세 추정 모델 제공 장치 및 방법
-        # subtitle : [IMEMK Autumn Conference 2021 Poster session]
-        quote: >
-          Patent application · Nov 24, 2021 <br> <br>
+#       - layout: top-middle
+#         title: A Person Re-Identification and Tracking Algorithm in Mobile Environment for Human-Robot Interaction
+#         # subtitle : 
+#         quote: >
+#           [The 16th IEMEK Symposium on Embedded Technology Poster Session] <br> <U>Hyunyoung Han<sup>1</sup></U>, Jaehyun Pahk<sup>1</sup>, Doowon Choe<sup>1</sup>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2*</sup>
+
+#       - layout: top-middle
+#         title: 경량화된 자세 추정 모델 제공 장치 및 방법
+#         # subtitle : [IMEMK Autumn Conference 2021 Poster session]
+#         quote: >
+#           Patent application · Nov 24, 2021 <br> <br>
 
 # Academic Activities
   - title: Academic Activities # Title for the section
@@ -410,11 +415,12 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          - CSCW 2024 <br> <br>
-
+          - CSCW 2024
+      
+      - layout: left
         title: Student Volunteer
         description: |
-          - 1st Korea Haptics Conference <br> <br>
+          - 1st Korea Haptics Conference
 
 # AWARDS
   - title: Awards & Honors # Title for the section
