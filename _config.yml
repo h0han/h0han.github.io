@@ -466,10 +466,12 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       **🏆  Student Innovation Callenge Sponsored by Hyundai Motor Group: Excellent Award (2nd Prize)** - Issued by Korea Haptics Society · Nov 2023
-      - 《측면 창문 AR HUD와 햅틱 피드백 기반의 인터페이스를 활용한 새로운 인카(In-car) 엔터테인먼트 경험 제공 (Providing a new in-car entertainment experience using lateral window AR HUD and an interface based on haptic feedback)》
+      - 《측면 창문 AR HUD와 햅틱 피드백 기반의 인터페이스를 활용한 새로운 인카(In-car) 엔터테인먼트 경험 제공》
+        (Providing a new in-car entertainment experience using lateral window AR HUD and an interface based on haptic feedback)
 
       **🏆  Student Innovation Callenge Sponsored by LG Electronics: Excellent Award (2nd Prize)** - Issued by Korea Haptics Society · Nov 2023
-      - 《햅틱 피드백이 내장된 카페트를 통한 몰입감 높은 홈엔터테인먼트 경험 개발 (Developing an immersive home entertainment experience through a carpet embedded with haptic feedback)》
+      - 《햅틱 피드백이 내장된 카페트를 통한 몰입감 높은 홈엔터테인먼트 경험 개발》
+        (Developing an immersive home entertainment experience through a carpet embedded with haptic feedback)
 
       **🏆  Kyu-Young Whang, Ph.D. Award for Best Research at UGRP (1st Prize)** - Issued by DGIST · Feb 2022
       - 《Development and Application of an Integrated AI Framework for Motion Analysis and Posture Correction for Future Healthcare》
