@@ -70,7 +70,7 @@ content:
           I'm interested in the research topics below.
           - Entertainment Activities with Haptics
           - Motion Guidance with Haptics
-          - Haptic Rendering & Feedback
+          - Intelligent User Interface
 
       - layout: left
         title: DGIST
@@ -84,7 +84,7 @@ content:
           # - [Introduction to Numerical Analysis](https://drive.google.com/drive/folders/1-Wz4LCrDzVjibANiTdORjz8ZGzBhkjwf?usp=share_link)
           # - [Robots for Human](https://drive.google.com/drive/folders/1ym_11zvw9mZoa6RYHs0fYHm7TIjKE_Jg?usp=share_link)
         description: | # this will include new lines to allow paragraphs
-          During my time at DGIST, I mainly studied **Computer Science(especially Artificial Intelligence)** and **Management Engineering**.
+          During my time at DGIST, I mainly studied **Computer Science(especially Artificial Intelligence)** and **Management**.
 
 
 
@@ -125,7 +125,7 @@ content:
           **[Human-Centered Interactive Technologies Laboratory](https://hcitech.org/)**
           - Motion Guidance based on Haptics
           - Haptic Rendering & Feedback
-          - PI : Prof. Sang-Ho Yoon
+          - PI : Prof. Sang Ho Yoon
 
       - layout: left
         title: Research Division of Future Automotive Technology
@@ -137,7 +137,7 @@ content:
           - Human Re-identification
           - Pose Estimation
           - Human-Robot Interaction
-          - PI : Prof. Woo-young Jung
+          - PI : Prof. Wooyoung Jung
 
       - layout: left
         title: DataLab
@@ -150,7 +150,7 @@ content:
           - File System (Operation System)
           - Code Version Management(Git/Github)
           - [Repository](https://github.com/h0han/OTFS)
-          - PI : Prof. Sung-jin Lee
+          - PI : Prof. Sungjin Lee
 
       - layout: left
         title: Theoretical and Computational Biophysics Laboratory
@@ -161,7 +161,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Basics of Python
           - Basics of Linux
-          - PI : Prof. Ik-soo Chang
+          - PI : Prof. Iksoo Chang
 
 # WORK EXPERIENCES
   - title: Work Experiences # Title for the section
@@ -460,8 +460,10 @@ content:
     layout: text # Type of content section (list/text)
     content: |
       **🏆  Student Innovation Callenge Sponsored by Hyundai Motor Group: Excellent Award (2nd Prize)** - Issued by Korea Haptics Society · Nov 2023
+      - 《측면 창문 AR HUD와 햅틱 피드백 기반의 인터페이스를 활용한 새로운 인카(In-car) 엔터테인먼트 경험 제공 (Providing a new in-car entertainment experience using lateral window AR HUD and an interface based on haptic feedback)》
 
       **🏆  Student Innovation Callenge Sponsored by LG Electronics: Excellent Award (2nd Prize)** - Issued by Korea Haptics Society · Nov 2023
+      - 《햅틱 피드백이 내장된 카페트를 통한 몰입감 높은 홈엔터테인먼트 경험 개발 (Developing an immersive home entertainment experience through a carpet embedded with haptic feedback)》
 
       **🏆  Kyu-Young Whang, Ph.D. Award for Best Research at UGRP (1st Prize)** - Issued by DGIST · Feb 2022
       - 《Development and Application of an Integrated AI Framework for Motion Analysis and Posture Correction for Future Healthcare》
