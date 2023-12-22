@@ -281,6 +281,40 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
+        title: You Only Look at Yourself - Real-time Visual and Haptic Guidance System for Golf Swing in Virtual Reality
+        # subtitle : (실시간 실가상 융합 기반 공연예술 교육 플랫폼 기술개발)
+        # link: 
+        # link_text: Project Website
+        # additional_links:
+        quote: >
+          Term Project of Augmented Humans (GCT565, Fall, 2023; KAIST) · Selected as the Runner-up Idea
+        description: | # this will include new lines to allow paragraphs
+          
+          Proposed Solution: YOLY(You Only Look at Yourself) is a real-time visual and haptic guidance system for golf swing in virtual reality. 
+          Users can correct their posture according to the first-person and third-person perspectives displayed on the virtual screen seen through the Head-Mounted Display (HMD). 
+          The virtual screen corresponds with the user's head movements, mitigating the "look-aways" phenomenon. 
+          Additionally, in accordance with related research, we divided the training sessions into a practice phase and a full-swing phase. 
+          The practice phase comprises seven stages: address, back-swing, top-of-swing, down-swing, impact, follow-through, and finish. 
+          We selected four steps before impact. Each phase gives the user visual guidance and haptic feedback in real-time.
+
+      - layout: top-middle
+        title: ZooBlox - Smart Block Toys Enhancing Children's Imagination with Generative AI
+        # subtitle : (실시간 실가상 융합 기반 공연예술 교육 플랫폼 기술개발)
+        # link: 
+        # link_text: Project Website
+        # additional_links:
+        quote: >
+          Term Project of Introduction to Culture Technology (GCT501, Fall, 2023; KAIST) · Selected as the Best Demo
+        description: | # this will include new lines to allow paragraphs
+          
+          Abstract: ZooBlox is an innovative project that integrates smart block toys with a tablet application powered by generative AI, 
+          aiming to revolutionize the way children engage with toys and technology. 
+          The project focuses on enhancing children’s creativity by enabling them to construct imaginary animals using physical blocks and digital technology. 
+          In this application, generative AI plays a pivotal role in transforming these creations into virtual beings within a digital zoo, encouraging imagination, 
+          confidence, and technological familiarity in children. 
+          This innovative approach, merging physical play with AI technology, promotes creativity and prepares children for future technological landscapes.
+
+      - layout: top-middle
         title: Real-time virtual convergence-based performing arts education platform technology
         # subtitle : (실시간 실가상 융합 기반 공연예술 교육 플랫폼 기술개발)
         # link: 
@@ -291,7 +325,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **<mark>Researcher</mark>**
           
-          Purpose	: Establish a real-time interaction-based education platform such as real-virtual convergence interaction, 
+          Purpose: Establish a real-time interaction-based education platform such as real-virtual convergence interaction, 
           motion similarity measurement, and interaction application content authoring so that it can be used simultaneously for 
             body motion-based performing arts experience and practice to learn the results.
 
@@ -309,7 +343,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **<mark>Team Lead</mark>**
           
-          Purpose : We quantified how healthy the community is, and presented it along with the price data of 
+          Purpose: We quantified how healthy the community is, and presented it along with the price data of 
           a specific project so that the data acts as a major factor in users' investment. In addition, the {on, off}
            Chain data of the Crypto project was visually shown to help intuitive understanding. UX improvement
             was promoted by using a chatbot so that it could be viewed momentarily in the messenger.
@@ -319,7 +353,7 @@ content:
 
 
       - layout: top-middle
-        title: Undergraduate Group Research Program (UGRP)
+        title: Development and Application of an Integrated AI Framework for Motion Analysis and Posture Correction for Future Healthcare
         # link: 
         # link_text: Project Website
         additional_links:
@@ -330,11 +364,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
+          DGIST Undergraduate Group Research Program (UGRP) Oct 2020 - Dec 2021 · Selected as the best project (selected 1st among 31 teams)
 
         description: | # this will include new lines to allow paragraphs
           **<mark>Team Lead</mark>** <br><br>
-          **《Development and Application of an Integrated AI Framework for Motion Analysis and Posture Correction for Future Healthcare》**
 
           **Project 1. A Person Re-Identification and Tracking Algorithm in Mobile Environment for
            Human-Robot Interaction** 
@@ -420,7 +453,7 @@ content:
       - layout: left
         title: Student Volunteer
         description: |
-          - 1st Korea Haptics Conference
+          - 1st Korea Haptics Conference (2023)
 
 # AWARDS
   - title: Awards & Honors # Title for the section
