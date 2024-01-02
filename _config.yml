@@ -287,7 +287,7 @@ content:
         # link_text: Project Website
         # additional_links:
         quote: >
-          Term Project of [GCT565] Augmented Humans (Fall, 2023; KAIST) · Selected as the Runner-up Idea
+          Term Project of [GCT565] Augmented Humans (Fall, 2023; KAIST) · **<mark>Selected as the Best Augmented Humans Project (Runner-up)</mark>**
         description: | # this will include new lines to allow paragraphs
           
           Proposed Solution: YOLY(You Only Look at Yourself) is a real-time visual and haptic guidance system for golf swing in virtual reality. 
@@ -304,7 +304,7 @@ content:
         # link_text: Project Website
         # additional_links:
         quote: >
-          Term Project of [GCT501] Introduction to Culture Technology (Fall, 2023; KAIST) · Selected as the Best Demo
+          Term Project of [GCT501] Introduction to Culture Technology (Fall, 2023; KAIST) · **<mark>Selected as the Best Demo</mark>**
         description: | # this will include new lines to allow paragraphs
           
           Abstract: ZooBlox is an innovative project that integrates smart block toys with a tablet application powered by generative AI, 
