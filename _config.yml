@@ -287,7 +287,7 @@ content:
         # link_text: Project Website
         # additional_links:
         quote: >
-          Term Project of [GCT565] Augmented Humans (Fall, 2023; KAIST) · <mark>Selected as the Best Augmented Humans Project (Runner-up)</mark>
+          Term Project of [GCT565] Augmented Humans (Fall, 2023; KAIST) · <mark>Selected as Best Augmented Humans Project (Runner-up)</mark>
         description: | # this will include new lines to allow paragraphs
           
           Proposed Solution: YOLY(You Only Look at Yourself) is a real-time visual and haptic guidance system for golf swing in virtual reality. 
@@ -304,7 +304,7 @@ content:
         # link_text: Project Website
         # additional_links:
         quote: >
-          Term Project of [GCT501] Introduction to Culture Technology (Fall, 2023; KAIST) · <mark>Selected as the Best Demo</mark>
+          Term Project of [GCT501] Introduction to Culture Technology (Fall, 2023; KAIST) · <mark>Selected as Best Demo</mark>
         description: | # this will include new lines to allow paragraphs
           
           Abstract: ZooBlox is an innovative project that integrates smart block toys with a tablet application powered by generative AI, 
@@ -339,7 +339,7 @@ content:
             # icon: fab fa-github
             # url: github.com/h0han/bc_2022
         quote: >
-          Term Project of Field Application of Blockchain I (Spring, 2022; SNU) · <mark>Selected as an excellent project (Top 3 out of 13 teams)</mark>
+          Term Project of Field Application of Blockchain I (Spring, 2022; SNU) · <mark>Selected as Excellent Project (Top 3 out of 13 teams)</mark>
         description: | # this will include new lines to allow paragraphs
           **<mark>Team Lead</mark>**
           
@@ -364,7 +364,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          DGIST Undergraduate Group Research Program (UGRP) Oct 2020 - Dec 2021 · <mark>Selected as the best project (selected 1st among 31 teams)</mark>
+          DGIST Undergraduate Group Research Program (UGRP) Oct 2020 - Dec 2021 · <mark>Selected as Best Project (selected 1st among 31 teams)</mark>
 
         description: | # this will include new lines to allow paragraphs
           **<mark>Team Lead</mark>**
