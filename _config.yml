@@ -386,7 +386,7 @@ content:
       - layout: top-middle
         title: Exploratory study on dance motion guidance adapted dynamic time warping algorithm and haptic feedback system based on low-latency motion similarity comparison
         quote: >
-          [Korea Haptic Conference 2023 Poster session] <br> <U>Hyunyoung Han<sup>1</sup></U>, Kyungeun Jung<sup>2</sup>, Hojin Lee<sup>3</sup>, Sang Ho Yoon<sup>4*</sup>
+          <mark>[Korea Haptic Conference 2023 Poster session]</mark> <br> <U>Hyunyoung Han</U><sup>1</sup>, Kyungeun Jung<sup>2</sup>, Hojin Lee<sup>3</sup>, Sang Ho Yoon<sup>4*</sup>
         # description: | # this will include new lines to allow paragraphs
         # **<mark>Domestic Conference</mark>**
 
@@ -394,7 +394,7 @@ content:
         title: Lightening of the high-performance Pose Estimation model in the video using Pointwise Similarity
         # subtitle : 
         quote: >
-          [IEMEK Autumn Conference 2021 Poster session] <br> Jaehyun Pahk<sup>1</sup>, Hyunwoo Kwak<sup>1</sup>, <U>Hyunyoung Han<sup>1</sup></U>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2*</sup>
+          <mark>[IEMEK Autumn Conference 2021 Poster session]</mark> <br> Jaehyun Pahk<sup>1</sup>, Hyunwoo Kwak<sup>1</sup>, <U>Hyunyoung Han</U><sup>1</sup>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2*</sup>
         # description: | # this will include new lines to allow paragraphs
         # **<mark>Domestic Conference</mark>**
 
@@ -402,7 +402,7 @@ content:
         title: A Person Re-Identification and Tracking Algorithm in Mobile Environment for Human-Robot Interaction
         # subtitle : 
         quote: >
-          [The 16th IEMEK Symposium on Embedded Technology Poster Session] <br> <U>Hyunyoung Han<sup>1</sup></U>, Jaehyun Pahk<sup>1</sup>, Doowon Choe<sup>1</sup>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2*</sup>
+          <mark>[The 16th IEMEK Symposium on Embedded Technology Poster Session]</mark> <br> <U>Hyunyoung Han</U><sup>1</sup>, Jaehyun Pahk<sup>1</sup>, Doowon Choe<sup>1</sup>, Junkwang Kim<sup>2</sup>, Wooyoung Jung<sup>2*</sup>
         # description: | # this will include new lines to allow paragraphs
         # **<mark>Domestic Conference</mark>**
 
@@ -410,7 +410,7 @@ content:
         title: 경량화된 자세 추정 모델 제공 장치 및 방법
         # subtitle : [IMEMK Autumn Conference 2021 Poster session]
         quote: >
-          Patent application · Nov 24, 2021 <br> <br>
+          <mark>Patent application</mark> · Nov 24, 2021 <br> <br>
 
 # Academic Activities
   - title: Academic Activities # Title for the section
