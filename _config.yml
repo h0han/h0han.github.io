@@ -12,7 +12,7 @@ email: hyhan@kaist.ac.kr
 # website: https://h0han.github.io/resume/
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 linkedin_username: hyhan
@@ -417,7 +417,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Reviewer
+        sub_title: Reviewer
         # caption: Project/Product Manager <br> Jun 2021 - Nov 2022
         # sub_title: StartUp
         # quote: >
@@ -426,7 +426,7 @@ content:
           - CSCW 2024
       
       - layout: left
-        title: Student Volunteer
+        sub_title: Student Volunteer
         description: |
           - 1st Korea Haptics Conference (2023)
 
