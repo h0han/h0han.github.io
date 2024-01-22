@@ -288,7 +288,7 @@ content:
           Term Project of [GCT565] Augmented Humans (Fall, 2023; KAIST) · <mark>Best Augmented Humans Project (Runner-up)</mark>
         description: | # this will include new lines to allow paragraphs
           
-          Proposed Solution: YOLY(You Only Look at Yourself) is a real-time visual and haptic guidance system for golf swing in virtual reality. 
+          YOLY(You Only Look at Yourself) is a real-time visual and haptic guidance system for golf swing in virtual reality. 
           Users can correct their posture according to the first-person and third-person perspectives displayed on the virtual screen seen through the Head-Mounted Display (HMD). 
           The virtual screen corresponds with the user's head movements, mitigating the "look-aways" phenomenon. 
           Additionally, in accordance with related research, we divided the training sessions into a practice phase and a full-swing phase. 
@@ -305,7 +305,7 @@ content:
           Term Project of [GCT501] Introduction to Culture Technology (Fall, 2023; KAIST) · <mark>Best Demo</mark>
         description: | # this will include new lines to allow paragraphs
           
-          Abstract: ZooBlox is an innovative project that integrates smart block toys with a tablet application powered by generative AI, 
+          ZooBlox is an innovative project that integrates smart block toys with a tablet application powered by generative AI, 
           aiming to revolutionize the way children engage with toys and technology. 
           The project focuses on enhancing children’s creativity by enabling them to construct imaginary animals using physical blocks and digital technology. 
           In this application, generative AI plays a pivotal role in transforming these creations into virtual beings within a digital zoo, encouraging imagination, 
@@ -323,7 +323,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **<mark>Researcher</mark>**
           
-          Purpose: Establish a real-time interaction-based education platform such as real-virtual convergence interaction, 
+          Establishing a real-time interaction-based education platform such as real-virtual convergence interaction, 
           motion similarity measurement, and interaction application content authoring so that it can be used simultaneously for 
             body motion-based performing arts experience and practice to learn the results.
 
@@ -339,8 +339,8 @@ content:
           **<mark>Product Manager</mark>**
 
           **[Website](https://avantgarde.design/)** · **[Opensea](https://opensea.io/collection/ha-jung-woo-x-supernormal-by-avant-garde)**
-          
-          Purpose: This project is Avant Garde’s first PFP collection. 
+
+          This project is Avant Garde’s first PFP collection. 
           A limited edition line of PFP NFTs inspired by the work of renowned Korean artist Jungwoo Ha. 
           The collection was generated with more than 500 unique wearable items, each curated with Ha Jung Woo's signature style. 
           With only 978 NFTs available, this collection offers a rare opportunity to own a unique piece of art that has the touch of both Ha Jung Woo and SuperNormal. 
@@ -360,7 +360,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           **<mark>Team Lead</mark>**
           
-          Purpose: We quantified how healthy the community is, and presented it along with the price data of 
+          We quantified how healthy the community is, and presented it along with the price data of 
           a specific project so that the data acts as a major factor in users' investment. In addition, the {on, off}
            Chain data of the Crypto project was visually shown to help intuitive understanding. UX improvement
             was promoted by using a chatbot so that it could be viewed momentarily in the messenger.
@@ -427,7 +427,7 @@ content:
         title: 경량화된 자세 추정 모델 제공 장치 및 방법 (APPARATUS AND METHOD FOR PROVIDING LIGHTENED POSE ESTIMATION MODEL)
         # subtitle : [IMEMK Autumn Conference 2021 Poster session]
         quote: >
-          <mark>Patent application (10-2021-0163771)</mark> 박재현 곽현우 <U>한현영</U> 고낙헌 주식회사 올웨이즈 · Nov 24, 2021 <br> <br>
+          <mark>Patent application (10-2021-0163771)</mark> 박재현, 곽현우, <U>한현영</U>, 고낙헌, 주식회사 올웨이즈 · Nov 24, 2021 <br> <br>
 
 # Academic Activities
   - title: Academic Activities # Title for the section
