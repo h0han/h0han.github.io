@@ -337,7 +337,9 @@ content:
         #   [Website](https://avantgarde.design/) · [Opensea](https://opensea.io/collection/ha-jung-woo-x-supernormal-by-avant-garde)
         description: | # this will include new lines to allow paragraphs
           **<mark>Product Manager</mark>**
+
           **[Website](https://avantgarde.design/)** · **[Opensea](https://opensea.io/collection/ha-jung-woo-x-supernormal-by-avant-garde)**
+          
           Purpose: This project is Avant Garde’s first PFP collection. 
           A limited edition line of PFP NFTs inspired by the work of renowned Korean artist Jungwoo Ha. 
           The collection was generated with more than 500 unique wearable items, each curated with Ha Jung Woo's signature style. 
