@@ -287,7 +287,7 @@ content:
         # link_text: Project Website
         # additional_links:
         quote: >
-          Term Project of [GCT565] Augmented Humans (Fall, 2023; KAIST) · <mark>Selected as Best Augmented Humans Project (Runner-up)</mark>
+          Term Project of [GCT565] Augmented Humans (Fall, 2023; KAIST) · <mark>Best Augmented Humans Project (Runner-up)</mark>
         description: | # this will include new lines to allow paragraphs
           
           Proposed Solution: YOLY(You Only Look at Yourself) is a real-time visual and haptic guidance system for golf swing in virtual reality. 
@@ -304,7 +304,7 @@ content:
         # link_text: Project Website
         # additional_links:
         quote: >
-          Term Project of [GCT501] Introduction to Culture Technology (Fall, 2023; KAIST) · <mark>Selected as Best Demo</mark>
+          Term Project of [GCT501] Introduction to Culture Technology (Fall, 2023; KAIST) · <mark>Best Demo</mark>
         description: | # this will include new lines to allow paragraphs
           
           Abstract: ZooBlox is an innovative project that integrates smart block toys with a tablet application powered by generative AI, 
@@ -339,7 +339,7 @@ content:
             # icon: fab fa-github
             # url: github.com/h0han/bc_2022
         quote: >
-          Term Project of Field Application of Blockchain I (Spring, 2022; SNU) · <mark>Selected as Excellent Project (Top 3 out of 13 teams)</mark>
+          Term Project of Field Application of Blockchain I (Spring, 2022; SNU) · <mark>Excellent Project (Top 3 out of 13 teams)</mark>
         description: | # this will include new lines to allow paragraphs
           **<mark>Team Lead</mark>**
           
@@ -364,7 +364,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          DGIST Undergraduate Group Research Program (UGRP) Oct 2020 - Dec 2021 · <mark>Selected as Best Project (selected 1st among 31 teams)</mark>
+          DGIST Undergraduate Group Research Program (UGRP) Oct 2020 - Dec 2021 · <mark>Best Project (selected 1st among 31 teams)</mark>
 
         description: | # this will include new lines to allow paragraphs
           **<mark>Team Lead</mark>**
@@ -410,7 +410,7 @@ content:
         title: 경량화된 자세 추정 모델 제공 장치 및 방법 (APPARATUS AND METHOD FOR PROVIDING LIGHTENED POSE ESTIMATION MODEL)
         # subtitle : [IMEMK Autumn Conference 2021 Poster session]
         quote: >
-          <mark>Patent application (10-2021-0163771)</mark> 박재현 곽현우 한현영 고낙헌 주식회사 올웨이즈 · Nov 24, 2021 <br> <br>
+          <mark>Patent application (10-2021-0163771)</mark> 박재현 곽현우 <U>한현영</U> 고낙헌 주식회사 올웨이즈 · Nov 24, 2021 <br> <br>
 
 # Academic Activities
   - title: Academic Activities # Title for the section
@@ -424,6 +424,7 @@ content:
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
           - CSCW 2024
+          - CHI 2024 alt.chi
       
       - layout: left
         sub_title: Student Volunteer
