@@ -328,6 +328,23 @@ content:
             body motion-based performing arts experience and practice to learn the results.
 
       - layout: top-middle
+        title: NFT Project - [HAJUNGWOO X SUPERNORMAL] by AVANT GARDE
+        # subtitle : (실시간 실가상 융합 기반 공연예술 교육 플랫폼 기술개발)
+        # link: 
+        # link_text: Project Website
+        # additional_links:
+        quote: >
+          [Website](https://avantgarde.design/) · [Opensea](https://opensea.io/collection/ha-jung-woo-x-supernormal-by-avant-garde)
+        description: | # this will include new lines to allow paragraphs
+          **<mark>Product Manager</mark>**
+          
+          Purpose: 	This project is Avant Garde’s first PFP collection. 
+          A limited edition line of PFP NFTs inspired by the work of renowned Korean artist Jungwoo Ha. 
+          The collection was generated with more than 500 unique wearable items, each curated with Ha Jung Woo's signature style. 
+          With only 978 NFTs available, this collection offers a rare opportunity to own a unique piece of art that has the touch of both Ha Jung Woo and SuperNormal. 
+          Avant Garde designs and produces digital fashion NFTs which can be worn in any type of digital world such as metaverses and online games.
+
+      - layout: top-middle
         title: Development of applications to help explore and validate sustainable cryptocurrency projects
         # subtitle : [full deck](https://drive.google.com/file/d/1xngvQJEga3zk9dYIQITT7RZBRqpIIGt6/view?usp=sharing)
         # link: 
