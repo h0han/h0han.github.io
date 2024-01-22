@@ -33,7 +33,7 @@ github_username:  h0han
 additional_links:
 - title: Download CV 
   icon: far fa-file-pdf
-  url: https://drive.google.com/file/d/1LD5dWvU79R2omHt_WfTo_YqjkiONkyN0/view?usp=sharing
+  url: https://drive.google.com/file/d/1_-vJuy0fYl3J7xGKTNdJMJqg9p7C2lCo/view?usp=sharing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -49,8 +49,8 @@ additional_links:
 about_profile_image: images/profile_2022.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I aim to deeply commit to pioneering efforts that enhance seamless interactions between products or services and users at the endpoints, applying cutting-edge technologies. 
-  My interest lies in conducting research to create user experiences that transcend spatial and temporal constraints, enabling the enjoyment of a diverse range of entertainment activities. 
-  It is my aspiration to conduct research that is both delightful and enriching for all parties involved, including both the target users and the researchers.
+  My research interests lie in creating user experiences that transcend spatial and temporal constraints, enabling the enjoyment of a diverse range of entertainment activities. 
+  I aspire to conduct research that is both delightful and enriching for all parties involved, including both the target users and the researchers.
 
 content:
 
@@ -67,7 +67,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           I'm in **[HCI Tech Lab](https://hcitech.org/index.html)** in Graduate School of Culture Technology supervised by prof. [Sang Ho Yoon](http://hcidesigner.weebly.com/), and focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
 
-          I'm interested in the research topics below.
+          I am interested in researching in
           - Entertainment Activities with Haptics
           - Motion Guidance with Haptics
           - Intelligent User Interface
@@ -75,7 +75,7 @@ content:
       - layout: left
         title: DGIST
         caption: Daegu, South Korea <br> Feb 2019 - Feb 2023
-        sub_title: Bachelor of Engineering
+        sub_title: B.S. in Engineering
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
           # The list below is a sample report of the major courses I took.
@@ -149,7 +149,6 @@ content:
           **[Data-Intensive Computing Systems Laboratory](https://datalab.dgist.ac.kr/)**
           - File System (Operation System)
           - Code Version Management(Git/Github)
-          - [Repository](https://github.com/h0han/OTFS)
           - PI : Prof. Sungjin Lee
 
       - layout: left
@@ -159,8 +158,7 @@ content:
         # quote: >
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
-          - Basics of Python
-          - Basics of Linux
+          - Basics of biophysics
           - PI : Prof. Iksoo Chang
 
 # WORK EXPERIENCES
