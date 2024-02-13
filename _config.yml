@@ -68,9 +68,10 @@ content:
           I'm in **[HCI Tech Lab](https://hcitech.org/index.html)** in Graduate School of Culture Technology supervised by prof. [Sang Ho Yoon](http://hcidesigner.weebly.com/), and focusing on **HCI(Human-Computer Interaction)** and **Haptics**.
 
           I am interested in researching in
-          - Entertainment Activities with Haptics
-          - Motion Guidance with Haptics
-          - Intelligent User Interface
+          - Intelligent User Interface Design; Usability Study, User-Centered Design
+          - Augmenting Entertainment Activities (Sports, Dance, Media) in Various Computing Devices (including XR)
+          - Computer-Supported Cooperative Work: Creativity Support
+          - Human-AI-Interaction
 
       - layout: left
         title: DGIST
@@ -125,7 +126,7 @@ content:
           **[Human-Centered Interactive Technologies Laboratory](https://hcitech.org/)**
           - Motion Guidance based on Haptics
           - Haptic Rendering & Feedback
-          - PI : Prof. Sang Ho Yoon
+          - Advisor : Prof. Sang Ho Yoon
 
       - layout: left
         title: Research Division of Future Automotive Technology
@@ -137,7 +138,7 @@ content:
           - Human Re-identification
           - Pose Estimation
           - Human-Robot Interaction
-          - PI : Prof. Wooyoung Jung
+          - Advisor : Prof. Wooyoung Jung
 
       - layout: left
         title: DataLab
@@ -149,7 +150,7 @@ content:
           **[Data-Intensive Computing Systems Laboratory](https://datalab.dgist.ac.kr/)**
           - File System (Operation System)
           - Code Version Management(Git/Github)
-          - PI : Prof. Sungjin Lee
+          - Advisor : Prof. Sungjin Lee
 
       - layout: left
         title: Theoretical and Computational Biophysics Laboratory
@@ -159,7 +160,7 @@ content:
           # I mainly studied Computer Science(especially Artificial Intelligence) and Management Engineering.
         description: | # this will include new lines to allow paragraphs
           - Basics of biophysics
-          - PI : Prof. Iksoo Chang
+          - Advisor : Prof. Iksoo Chang
 
 # WORK EXPERIENCES
   - title: Work Experiences # Title for the section
@@ -442,6 +443,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - CSCW 2024
           - CHI 2024 alt.chi
+          - CHI 2024 Late-Breaking Work
       
       - layout: left
         sub_title: Student Volunteer
